@@ -3,8 +3,8 @@
 [ ] Testes unitários
 [ ] Testes de integração
 [ ] Cobertura de testes
-[ ] Análise estática de código
-[ ] Padronizações de codificação
+[x] Análise estática de código
+[x] Padronizações de codificação
 [ ] Gerenciamento de configurações (local / beta / stable)
-[ ] Testes end-to-end (opcional)
-[ ] Versionamento semântico (opcional)
+[o] Testes end-to-end (opcional)
+[o] Versionamento semântico (opcional)
