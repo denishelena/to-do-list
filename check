@@ -1,8 +1,8 @@
 [x] Linter no commit (git-hooks)[black, isort, prospector]
 [ ] Linter no CI
-[ ] Testes unitários
-[ ] Testes de integração
-[ ] Cobertura de testes
+[x] Testes unitários
+[x] Testes de integração
+[x] Cobertura de testes
 [x] Análise estática de código
 [x] Padronizações de codificação
 [ ] Gerenciamento de configurações (local / beta / stable)
